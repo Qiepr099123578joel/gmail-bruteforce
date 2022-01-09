@@ -27,7 +27,8 @@ $  python2 gmail-brt.py
 
 
 
-### USERNAME : BDKR28
+### USERNAME : joelgiovanni911@gmail.com
+
 
 ### PASSWORD : gmailpass
 
